@@ -1,0 +1,11 @@
+.login-content {
+    width: 100%;
+    padding: 15%;    
+    background-color: #614EE6;
+    min-height: 100vh;
+}
+
+.form-person {
+    width: 100%;
+    max-width: 320px;
+}
